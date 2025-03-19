@@ -1,0 +1,12 @@
+streamlit
+streamlit-tags
+streamlit-aggrid
+streamlit-option-menu
+streamlit_extras
+openai
+tiktoken
+pandas
+ipykernel
+shortuuid
+torch
+transformers

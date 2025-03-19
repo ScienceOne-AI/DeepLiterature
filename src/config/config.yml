@@ -1,0 +1,36 @@
+deepliterature:
+  language: <LANG> # ["zh", "en"]
+  llm:
+    max_context_length: <MAX_CONTEXT_LENGTH> # input + output
+    llm_model: <LLM_MODEL_TYPE> # ["remote-llm", "remote-reasoning-llm"]
+    remote-llm:
+      api_url: <YOUR_API_URL>
+      api_key: <YOUR_API_KEY>
+      model_name: <YOUR_MODEL_NAME>
+      tokenizer:
+        tokenizer_class: <TOKENIZER_CLASS>
+        tokenizer_name_or_path: <TOKENIZER_NAME_OR_PATH>
+      
+    remote-reasoning-llm:
+      api_url: <YOUR_API_URL>
+      api_key: <YOUR_API_KEY>
+      model_name: <YOUR_MODEL_NAME>
+      tokenizer:
+        tokenizer_class: <TOKENIZER_CLASS>
+        tokenizer_name_or_path: <TOKENIZER_NAME_OR_PATH>
+
+  search-engine:
+    search_engine: "serp"
+    serp:
+      api_url: "https://serpapi.com/search"
+      api_key: <YOUR_API_KEY>
+      gl: <GOOGLE_LOCATION>
+      hl: <GOOGLE_LANGUAGE>
+
+  jina:
+    api_url: "https://r.jina.ai/"
+    api_key: <YOUR_API_KEY>
+  
+  code-runner:
+    api_url: <YOUR_CODE_RUNNER_API>
+  
