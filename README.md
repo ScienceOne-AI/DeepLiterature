@@ -4,7 +4,7 @@
   <img src="./assets/deep_literature_logo.svg" alt="Logo" width="600">
   </br></br>
 
-  [![GitHub Repo stars](https://img.shields.io/github/stars/ScienceOne-AI/DeepLiterature?style=social)](https://github.com/ScienceOne-AI/DeepLiterature/stargazers)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/ScienceOne-AI/DeepLiterature?style=social)](https://github.com/ScienceOne-AI/DeepLiterature)
 [![license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![issue resolution](https://img.shields.io/github/issues-closed-raw/ScienceOne-AI/DeepLiterature)](https://github.com/ScienceOne-AI/DeepLiterature/issues)
 [![open issues](https://img.shields.io/github/issues-raw/ScienceOne-AI/DeepLiterature)](https://github.com/ScienceOne-AI/DeepLiterature/issues)
